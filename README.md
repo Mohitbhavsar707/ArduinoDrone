@@ -1,4 +1,4 @@
-# ArduinoDrone
+# Arduino_Drone
 Using tinkercad arduino this is a theoretical simulation on how a drone would work 
 
 To view a copy of the project and edit through the software, click here: https://www.tinkercad.com/things/gjA0SOFDF2s-copy-of-arduino-small-invention/editel?sharecode=l64iYAMME8hTb_XD4kQBIAdyf6mHJISbNOpZKQ43EyM
